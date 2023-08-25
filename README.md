@@ -8,3 +8,4 @@
 - [Number and String](./Number%20and%20String/)
 - [String Lenght](./String%20Length/)
 - [Acces String](./Access%20String/)
+- [Omitting Namespace](./Omitting%20Namespace/)
