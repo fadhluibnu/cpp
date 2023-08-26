@@ -12,3 +12,4 @@
 - [Booleans](./Booleans/)
 - [Boolean Expression](./Boolean%20Expression/)
 - [Array](./Array/)
+- [Structures](./Structures/)
